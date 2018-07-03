@@ -29,7 +29,7 @@ make run
 ```
 The whole algorithm might take several hours to finish execution.
 
-#### Task 1 -- Classical DTW
+### Task 1 -- Classical DTW
 ```
 make 1
 ```
